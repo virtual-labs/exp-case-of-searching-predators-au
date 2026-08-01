@@ -1,0 +1,75 @@
+
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. The first assumption of the optimal foraging theory is:",
+      "answers": {
+        "a": "optimal foraging results from natural selection",
+        "b": "natural selection will only favor behavior that maximizes energy return",
+        "c": "natural selection selects foraging behavior that maximizes the size of the prey sought",
+        "d": "optimal foraging is genetically determined"
+      },
+ 
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },   
+
+
+    {
+      "question": "2. Behaviors that influence what an animal eats and how it obtains its food are called:",
+      "answers": {
+        "a": "foraging behaviors",
+        "b": "social behaviors",
+        "c": "territorial behaviors",
+        "d": "eusocial behaviors"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+
+    
+    {
+      "question": "3. An animal will always feed on the largest prey they can find:",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+
+ 
+    {
+      "question": "4. Robert MacArthur, J M Emlen, and Eric Pianka, first proposed an ________ in 1966",
+      "answers": {
+        "a": "Parasitism",
+        "b": "Predation",
+        "c": "Ecology",
+        "d": "Optimal foraging theory"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+
+
+    {
+      "question": "5. Population density of a predator mainly depends upon ___",
+      "answers": {
+        "a": "environmental factors",
+        "b": "food",
+        "c": "interspecific competition",
+        "d": "social behavior"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}

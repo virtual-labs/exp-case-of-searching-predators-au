@@ -1,0 +1,26 @@
+
+/home/runner/work/exp-case-of-searching-predators-au/exp-case-of-searching-predators-au/experiment/simulation/js/chart.js
+  2:7  warning  'Chart' is assigned a value but never used  no-unused-vars
+
+/home/runner/work/exp-case-of-searching-predators-au/exp-case-of-searching-predators-au/experiment/simulation/js/common.js
+   3:10   warning  'dl' is defined but never used           no-unused-vars
+   4:10   warning  'downloadPNG' is defined but never used  no-unused-vars
+   6:10   warning  'setLegend' is defined but never used    no-unused-vars
+   7:10   warning  'saveRun' is defined but never used      no-unused-vars
+   8:10   warning  'loadRun' is defined but never used      no-unused-vars
+   8:291  warning  'sync' is not defined                    no-undef
+  11:10   warning  'renderField' is defined but never used  no-unused-vars
+  18:10   warning  'toggleFS' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-case-of-searching-predators-au/exp-case-of-searching-predators-au/experiment/simulation/js/main.js
+  18:3    warning  'Chart' is not defined                   no-undef
+  18:119  warning  'setLegend' is not defined               no-undef
+  23:10   warning  'resetSim' is defined but never used     no-unused-vars
+  23:89   warning  'toast' is not defined                   no-undef
+  24:10   warning  'downloadCSV' is defined but never used  no-unused-vars
+  24:34   warning  'toast' is not defined                   no-undef
+  24:277  warning  'dl' is not defined                      no-undef
+  24:315  warning  'toast' is not defined                   no-undef
+
+✖ 17 problems (0 errors, 17 warnings)
+
